@@ -13,7 +13,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="lohann-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="right" alt="Vlad-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/f9/80/6a/f9806af5e5e2eab02a29c68d91c9415a.jpg">
+  <img align="right" alt="lohann-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/f9/80/6a/f9806af5e5e2eab02a29c68d91c9415a.jpg">
 
 
     
