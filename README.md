@@ -1,7 +1,7 @@
 ### Olá!! Eu sou Lohann 👋
 
 - 🎮 Desenvolvedor indie Unity2D
-- 📝 Estudo C# e pixel art
+- 📝 Estudo C#,Python,Javascript e pixel art
 
 <div align="center">
   <a href="https://github.com/kohann13">
