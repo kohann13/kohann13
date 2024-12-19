@@ -13,7 +13,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="lohann-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="ACES-GameMaker" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/GameMaker_Studio_2_Logo.svg">
+  <img align="center" alt="ACES-GameMaker" height="30" width="40" src="https://media.pcgamesinsider.biz/2023/11/124472/gamemaker-logo-r225x225.png">
 
 
     
