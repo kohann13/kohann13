@@ -4,8 +4,8 @@
 - 📝 I study C#, GMl, GDScript, Python, Javascript, and pixel art
 
 ##
-<a href="https://github-stats-extended.vercel.app/api?username=kohann13&theme=synthwave">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=kohann13&theme=synthwave" />
+<a href="https://github-stats-extended.vercel.app/api?username=kohann13&theme=synthwave&include_all_commits">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=kohann13&theme=synthwave&include_all_commits" />
 </a>
 <a href="https://github-stats-extended.vercel.app/api/top-langs?username=kohann13&theme=synthwave&layout=donut&card_width=320">
   <img height=195 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=kohann13&theme=synthwave&layout=donut&card_width=320" />
